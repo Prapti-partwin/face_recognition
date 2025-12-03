@@ -76,8 +76,8 @@ VaidyaSutra/
 ├── app.py                 # Main Flask app
 ├── database.py            # MySQL connection & queries
 ├── face_utils.py          # Face encoding & matching
-├── static/                # CSS, JS, images
-├── templates/             # HTML templates
+├── static/ uploads               # CSS, JS, images
+├── templates/'all html files'    # HTML templates
 └── dataset/               # Stored facial images & encodings
 ```
 
